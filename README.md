@@ -14,3 +14,4 @@ If we could include the functionality  of the `shell-quote` library into NodeJS 
 This is the list of libraries / functionality that I believe should be part of the NodeJS run time. 
 
 - [shell-quote](https://www.npmjs.com/package/shell-quote) - escaping shell arguments, enable using a option for backwards compatibility. Made default during a major release?
+- https://github.com/purposeindustries/window-or-global
